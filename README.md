@@ -8,3 +8,4 @@ const Rub = {
  challenge: "Be Helpful for everyone"
 }
 ```
+<a href="https://discord.com/users/696988079352709140"><img src="https://lanyard.cnrad.dev/api/696988079352709140?borderRadius=20px&bg=00000000" alt="Discord" /></a>
