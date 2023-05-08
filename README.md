@@ -1,6 +1,8 @@
 ### Hi there 👋
-<a href="https://discord.com/users/696988079352709140"><img 
-Here are some ideas to get you started:
+
+<a href="https://discord.com/users/825124006209388616"><img src="https://lanyard.cnrad.dev/api/696988079352709140?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+
+                                                            Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
