@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```javascript
-const thai = {
+const Rub = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Python, Jest, Docker],
