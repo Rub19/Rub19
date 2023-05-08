@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<a href="https://discord.com/users/825124006209388616"><img src="https://lanyard.cnrad.dev/api/825124006209388616?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+<!--
 <!--
 **Rub19/Rub19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
