@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a href="https://discord.com/users/825124006209388616">
-
+<a href="https://discord.com/users/696988079352709140"><img 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
