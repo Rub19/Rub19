@@ -1,5 +1,5 @@
 ### Hello, I'm Rub! <img src="https://media.giphy.com/media/Ogft3GVOeMk7wp4Yky/giphy.gif" width="50"></h2>
-](https://komarev.com/ghpvc/?Rub19&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rub19)
 ```javascript
 const Rub = {
   pronouns: "he" | "him",
