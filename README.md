@@ -1,5 +1,8 @@
 ### Hello, I'm Rub! <img src="https://media.giphy.com/media/Ogft3GVOeMk7wp4Yky/giphy.gif" width="50"></h2>
 ![Profile Views](https://komarev.com/ghpvc/?username=Rub19)
+<p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Rub19&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
+<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Rub19&theme=dracula" /> </p>
+
 ```javascript
 const Rub = {
   pronouns: "he" | "him",
