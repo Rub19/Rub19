@@ -17,4 +17,3 @@ const Rub = {
 
 
 
-https://discord.c99.nl/widget/theme-2/1003618812836446281.png
