@@ -14,3 +14,4 @@ const Rub = {
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/825124006209388616?theme=dark&bg=033484&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/825124006209388616)
+https://discord.c99.nl/widget/theme-2/1003618812836446281.png
