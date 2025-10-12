@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Rub19
 
-🎧 Musician • 🎮 Game Dev • 💻 Creator  
-💬 Always coding, making music, and creating games 🎮🎧
+🎮 Game Dev • 💻 Creator  
+💬 Always coding and creating games 🎮
 
 ---
 
@@ -9,7 +9,7 @@
 
 <!-- Séparateur animé néon -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=600&lines=Welcome+to+my+GitHub+Profile!+;Code+%7C+Games+%7C+Music" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=600&lines=Welcome+to+my+GitHub+Profile!+;Code+%7C+Games" alt="Typing SVG"/>
 </p>
 
 </div>
@@ -44,7 +44,7 @@
 
 <div align="center">
 <p>
-<code>💻✨ Code | 🎮 Games | 🎧 Music</code>
+<code>💻✨ Code | 🎮 Games</code>
 </p>
 </div>
 
