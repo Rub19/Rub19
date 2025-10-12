@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<!-- Séparateur animé néon -->
+<!-- Typing SVG animé -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&width=600&lines=Welcome+to+my+GitHub+Profile!+;Code+%7C+Games" alt="Typing SVG"/>
 </p>
