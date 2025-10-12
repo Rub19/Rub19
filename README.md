@@ -10,5 +10,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rub19&theme=transparent)
 
+![Followers](https://img.shields.io/github/followers/Rub19?style=social)
+![Stars](https://img.shields.io/github/stars/Rub19?style=social)
 
 
