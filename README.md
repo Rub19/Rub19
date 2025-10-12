@@ -20,7 +20,7 @@
 
 ## 🚀 My GitHub Stats
 
-![Rub19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&v=2)
+![Rub19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rub19&layout=compact&theme=radical)
 
