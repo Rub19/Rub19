@@ -13,4 +13,5 @@
 ![Followers](https://img.shields.io/github/followers/Rub19?style=social)
 ![Stars](https://img.shields.io/github/stars/Rub19?style=social)
 
+💬 Always coding, making music, and creating games 🎮🎧
 
