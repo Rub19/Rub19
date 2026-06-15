@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rub19&theme=github-dark&hide_border=true&background=00000000&ring=AFA9EC&fire=AFA9EC&currStreakLabel=AFA9EC" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rub19&theme=github-dark&hide_border=true&background=00000000&ring=AFA9EC&fire=AFA9EC&currStreakLabel=AFA9EC" alt="streak" />
 </p>
 
 <!-- ░░ CONNECT ░░ -->
@@ -48,5 +48,9 @@
 
 <!-- ░░ FOOTER ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AFA9EC&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=AFA9EC&height=2&width=80%25" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:AFA9EC,100=1a1a2e&height=80&section=footer&reversal=false" />
 </p>
