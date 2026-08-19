@@ -26,9 +26,8 @@
 
  <!-- ░░ CONNECT ░░ -->
   <p>
-    <a href="https://www.twitch.tv/rub19off"><img src="https://img.shields.io/badge/Twitch-rub19off-0d1117?style=for-the-badge&logo=twitch&logoColor=AFA9EC&labelColor=161b22" alt="Twitch" /></a>&nbsp;
-    <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://img.shields.io/badge/Steam-Rub19-0d1117?style=for-the-badge&logo=steam&logoColor=AFA9EC&labelColor=161b22" alt="Steam" /></a>&nbsp;
-    <a href="https://github.com/Rub19"><img src="https://img.shields.io/github/followers/Rub19?style=for-the-badge&label=Follow&logo=github&logoColor=AFA9EC&color=0d1117&labelColor=161b22" alt="GitHub Followers" /></a>
+    <a href="https://www.twitch.tv/rub19off"><img src="https://skillicons.dev/icons?i=twitch" alt="Twitch" width="40" height="40" /></a>&nbsp;
+    <a href="https://github.com/Rub19"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
   </p>
 
   <!-- ░░ FOOTER ░░ -->
