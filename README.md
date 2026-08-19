@@ -10,20 +10,9 @@
   <br/><br/>
 
   <!-- ░░ STACK ░░ -->
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=AFA9EC&labelColor=18181b" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=AFA9EC&labelColor=18181b" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=AFA9EC&labelColor=18181b" alt="Node.js" />
-    <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=AFA9EC&labelColor=18181b" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=AFA9EC&labelColor=18181b" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=AFA9EC&labelColor=18181b" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=AFA9EC&labelColor=18181b" alt="Python" />
-    <img src="https://img.shields.io/badge/Supabase-18181b?style=flat-square&logo=supabase&logoColor=AFA9EC&labelColor=18181b" alt="Supabase" />
-    <img src="https://img.shields.io/badge/discord.js-18181b?style=flat-square&logo=discord&logoColor=AFA9EC&labelColor=18181b" alt="discord.js" />
-    <img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=AFA9EC&labelColor=18181b" alt="Git" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,py,supabase,discord,git" alt="My Skills" />
 
-  <br/>
+  <br/><br/>
 
   <!-- ░░ GITHUB STATS ░░ -->
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&icon_color=AFA9EC&text_color=c9d1d9" alt="GitHub Stats" />
