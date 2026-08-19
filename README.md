@@ -24,10 +24,11 @@
 
   <br/><br/>
 
- <!-- ░░ CONNECT ░░ -->
+  <!-- ░░ CONNECT ░░ -->
   <p>
-    <a href="https://www.twitch.tv/rub19off"><img src="https://skillicons.dev/icons?i=twitch" alt="Twitch" width="40" height="40" /></a>&nbsp;
-    <a href="https://github.com/Rub19"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
+    <a href="https://www.twitch.tv/rub19off"><img src="https://api.iconify.design/logos:twitch.svg" width="32" height="32" alt="Twitch" /></a>&nbsp;&nbsp;
+    <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://api.iconify.design/bi:steam.svg?color=%23AFA9EC" width="32" height="32" alt="Steam" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/Rub19"><img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23AFA9EC" width="32" height="32" alt="GitHub" /></a>
   </p>
 
   <!-- ░░ FOOTER ░░ -->
