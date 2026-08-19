@@ -15,7 +15,7 @@
   <br/><br/>
 
   <!-- ░░ GITHUB STATS ░░ -->
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&icon_color=AFA9EC&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=00000000&title_color=AFA9EC&icon_color=AFA9EC&text_color=c9d1d9" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rub19&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&text_color=c9d1d9" alt="Top Langs" />
 
   <br/>
@@ -26,10 +26,12 @@
 
   <!-- ░░ CONNECT ░░ -->
   <p>
-    <a href="https://www.twitch.tv/rub19off"><img src="https://api.iconify.design/logos:twitch.svg" width="32" height="32" alt="Twitch" /></a>&nbsp;&nbsp;
-    <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://api.iconify.design/bi:steam.svg?color=%23AFA9EC" width="32" height="32" alt="Steam" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/Rub19"><img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23AFA9EC" width="32" height="32" alt="GitHub" /></a>
+    <a href="https://www.twitch.tv/rub19off"><img src="https://api.iconify.design/bi:twitch.svg?color=%23AFA9EC" width="30" height="30" alt="Twitch" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://api.iconify.design/bi:steam.svg?color=%23AFA9EC" width="30" height="30" alt="Steam" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Rub19"><img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23AFA9EC" width="30" height="30" alt="GitHub" /></a>
   </p>
+
+  <br/>
 
   <!-- ░░ FOOTER ░░ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:AFA9EC,100:0d1117&height=80&section=footer" width="100%" />
