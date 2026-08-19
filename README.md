@@ -1,56 +1,42 @@
-<!--
-  ╔══════════════════════════════════╗
-  ║        Rub19 · GitHub Profile    ║
-  ╚══════════════════════════════════╝
--->
-
 <!-- ░░ HEADER ░░ -->
-<h1 align="center">Rub19</h1>
-<p align="center">Web dev · Game dev · Discord bots</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:AFA9EC,100:0d1117&height=120&section=header" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=AFA9EC&center=true&vCenter=true&width=500&lines=Always+shipping+something+new.;Web+%7C+Games+%7C+Bots.;Open+to+collabs." alt="typing" />
-</p>
+  <h1>Rub19</h1>
+  <p><strong>Web dev · Game dev · Discord bots</strong></p>
 
-<!-- ░░ STACK ░░ -->
-## Stack
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=AFA9EC&center=true&vCenter=true&width=450&lines=Always+shipping+something+new.;TypeScript+%7C+Node.js+%7C+Python;Open+to+collabs." alt="typing" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+  <br/><br/>
 
-<!-- ░░ GITHUB STATS ░░ -->
-## GitHub activity
+  <!-- ░░ STACK ░░ -->
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,py,supabase,discord,git" alt="My Skills" />
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats-fast.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&icon_color=AFA9EC" alt="Rub19's GitHub Stats" />
-  <img height="155" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rub19&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC" alt="Rub19's Top Languages" />
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rub19&theme=github-dark&hide_border=true&background=00000000&ring=AFA9EC&fire=AFA9EC&currStreakLabel=AFA9EC" alt="streak" />
-</p>
+  <!-- ░░ GITHUB STATS ░░ -->
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Rub19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&icon_color=AFA9EC&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rub19&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=AFA9EC&text_color=c9d1d9" alt="Top Langs" />
 
-<!-- ░░ CONNECT ░░ -->
-## Connect
+  <br/>
 
-<p align="center">
-  <a href="https://www.twitch.tv/rub19off"><img src="https://img.shields.io/badge/Twitch-rub19off-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://img.shields.io/badge/Steam-Rub19-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
-  <a href="https://github.com/Rub19"><img src="https://img.shields.io/github/followers/Rub19?style=flat-square&label=Follow&logo=github&color=181717" alt="GitHub Followers" /></a>
-</p>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rub19&theme=github-dark&hide_border=true&background=00000000&ring=AFA9EC&fire=AFA9EC&currStreakLabel=AFA9EC&currStreakNum=AFA9EC&sideNums=AFA9EC&sideLabels=AFA9EC&dates=8b949e" alt="Streak" />
 
-<!-- ░░ FOOTER ░░ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=AFA9EC&height=2&width=80%25" alt="footer line" />
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:AFA9EC,100=1a1a2e&height=80&section=footer&reversal=false" alt="footer wave" />
-</p>
+  <!-- ░░ CONNECT ░░ -->
+  <p>
+    <a href="https://www.twitch.tv/rub19off">
+      <img src="https://img.shields.io/badge/Twitch-rub19off-18181b?style=flat-square&logo=twitch&logoColor=AFA9EC" alt="Twitch" />
+    </a>
+    <a href="https://store.steampowered.com/search/?developer=Rub19">
+      <img src="https://img.shields.io/badge/Steam-Rub19-18181b?style=flat-square&logo=steam&logoColor=AFA9EC" alt="Steam" />
+    </a>
+    <a href="https://github.com/Rub19">
+      <img src="https://img.shields.io/github/followers/Rub19?style=flat-square&label=Follow&logo=github&logoColor=AFA9EC&color=18181b" alt="GitHub Followers" />
+    </a>
+  </p>
+
+  <!-- ░░ FOOTER ░░ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:AFA9EC,100:0d1117&height=80&section=footer" width="100%" />
+</div>
