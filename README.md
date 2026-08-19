@@ -24,8 +24,12 @@
 
   <br/><br/>
 
-  <!-- ░░ CONNECT ░░ -->
-  <p><a href="https://www.twitch.tv/rub19off"><img src="https://img.shields.io/badge/Twitch-rub19off-18181b?style=flat-square&logo=twitch&logoColor=AFA9EC" alt="Twitch" /></a> <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://img.shields.io/badge/Steam-Rub19-18181b?style=flat-square&logo=steam&logoColor=AFA9EC" alt="Steam" /></a> <a href="https://github.com/Rub19"><img src="https://img.shields.io/github/followers/Rub19?style=flat-square&label=Follow&logo=github&logoColor=AFA9EC&color=18181b" alt="GitHub Followers" /></a></p>
+ <!-- ░░ CONNECT ░░ -->
+  <p>
+    <a href="https://www.twitch.tv/rub19off"><img src="https://img.shields.io/badge/Twitch-rub19off-0d1117?style=for-the-badge&logo=twitch&logoColor=AFA9EC&labelColor=161b22" alt="Twitch" /></a>&nbsp;
+    <a href="https://store.steampowered.com/search/?developer=Rub19"><img src="https://img.shields.io/badge/Steam-Rub19-0d1117?style=for-the-badge&logo=steam&logoColor=AFA9EC&labelColor=161b22" alt="Steam" /></a>&nbsp;
+    <a href="https://github.com/Rub19"><img src="https://img.shields.io/github/followers/Rub19?style=for-the-badge&label=Follow&logo=github&logoColor=AFA9EC&color=0d1117&labelColor=161b22" alt="GitHub Followers" /></a>
+  </p>
 
   <!-- ░░ FOOTER ░░ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:AFA9EC,100:0d1117&height=80&section=footer" width="100%" />
